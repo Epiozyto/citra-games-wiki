@@ -1,0 +1,9 @@
+title = "One Piece Unlimited Cruise SP 2"
+description = "One Piece Unlimited Cruise SP 2 is a port of One Piece Unlimited Cruise 2 for the Wii and the Sequel to One Piece Unlimited Cruise SP on the 3DS. It's the second chapter to the Unlimited Cruise series of games and has our heroes exploring unknown islands in the search for an answer."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000093400"
+region = "eur"
+release_date = "2012-07-27"
